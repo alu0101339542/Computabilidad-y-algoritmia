@@ -1,0 +1,6 @@
+a is the word number1
+b is the word number2
+ba is not a Fibonacci word
+aaa is not a Fibonacci word
+bb is not a Fibonacci word
+bababbab is the word number6

@@ -1,0 +1,15 @@
+// DFA que reconoce secuencias de {a, b} con un número par de símbolos a
+2
+a
+b
+2
+A
+B
+A
+1
+A
+4
+A a B
+A b A
+B b B
+B a A
